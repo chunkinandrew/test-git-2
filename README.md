@@ -6,3 +6,4 @@
 6. git branch проверить все ветки
 10. git branch [name] - создать ветку
 11. git checkout [name] - переключиться на ветку
+12. git pull [req_link] [branch_name] - забирает изменения с ветки на github и вносит их в нашу локальную ветку
