@@ -4,6 +4,7 @@
 4. git log / git log --oneline - показывает информацию о наших записях
 5. git push [req_link] [branch_name]
 6. git branch проверить все ветки
-10. git branch [name] - создать ветку
-11. git checkout [name] - переключиться на ветку
-12. git pull [req_link] [branch_name] - забирает изменения с ветки на github и вносит их в нашу локальную ветку
+7. git branch [name] - создать ветку
+8. git checkout [name] - переключиться на ветку
+9. git pull [req_link] [branch_name] - забирает изменения с ветки на github и вносит их в нашу локальную ветку
+10. git branch -d [branch_name] - удалить ветку
